@@ -63,6 +63,20 @@ python chatbot.py
 
 ---
 
+---
+
+## Capturas
+
+### Interfaz web
+
+![Interfaz web](img/demo_web.png)
+
+### Terminal
+
+![Terminal](img/demo_terminal.png)
+
+---
+
 ## Estructura del proyecto
 
 ```
