@@ -3,7 +3,7 @@
 Chatbot de inteligencia artificial que simula a **Thorfinn Karlsefni**,
 el protagonista del manga *Vinland Saga* de Makoto Yukimura.
 
-![Thorfinn](img/thorfinn.png)
+<img src="img/thorfinn.png" width="200"/>
 
 ---
 
