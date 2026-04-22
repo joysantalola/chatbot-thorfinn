@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Modelos y archivos grandes
+*.bin
+*.gguf
+Modelfile
+
+# Sistema
+.DS_Store
+Thumbs.db
